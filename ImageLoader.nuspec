@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SimpleImageLoader</id>
+    <version>0.0.1.0</version>
+    <title>Simple binary image loading library</title>
+    <authors>Kenta IDA</authors>
+    <owners>Kenta IDA</owners>
+    <projectUrl>http://bitbucket.org/ciniml/simpleimageloader/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple binary image loading library</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015 Kenta IDA</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/ImageLoader.dll" target="lib/net45" />
+    <file src="bin/Release/ImageLoader.pdb" target="lib/net45" />
+  </files>
+</package>
